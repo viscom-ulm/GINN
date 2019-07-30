@@ -5,7 +5,7 @@ Created by <a href="https://www.uni-ulm.de/en/in/mi/institute/mi-mitarbeiter/ped
 
 This repository contains the code of our <a href="https://arxiv.org/abs/1811.04756">EGSR paper</a>, `Deep-learning the Latent Space of Light Transport`.
 
-<a href="https://arxiv.org/abs/1811.04756">Paper</a>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/deLJvw10AaU"></iframe>
 
 ### Citation
 
