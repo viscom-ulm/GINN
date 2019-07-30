@@ -3,14 +3,21 @@ Created by <a href="https://www.uni-ulm.de/en/in/mi/institute/mi-mitarbeiter/ped
 
 ![teaser](https://github.com/viscom-ulm/GINN/blob/master/teaser/teaser.jpg)
 
+### Links
+
+<a href="https://www.uni-ulm.de/en/in/mi/mi-forschung/viscom/publications/2018/hermosilla2018mccnn0/">Website</a>
+<a href="https://www.youtube.com/watch?v=deLJvw10AaU">Video</a>
+<a href="https://arxiv.org/abs/1811.04756">Paper</a>
+
 ### Citation
+
 If you find this code useful please consider citing us:
 
-@article{hermosilla2018ginn,
-    title={Deep-learning the Latent Space of Light Transport},
-    author={Pedro Hermosilla and Sebastian Maisch and Tobias Ritschel and Timo Ropinski },
-    journal={Computer Graphics Forum (Proc. EGSR 2019)}
-}
+    @article{hermosilla2018ginn,
+        title={Deep-learning the Latent Space of Light Transport},
+        author={Pedro Hermosilla and Sebastian Maisch and Tobias Ritschel and Timo Ropinski },
+        journal={Computer Graphics Forum (Proc. EGSR 2019)}
+    }
 
 ### Pre-requisites
 
