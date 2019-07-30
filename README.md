@@ -3,7 +3,7 @@ Created by <a href="https://www.uni-ulm.de/en/in/mi/institute/mi-mitarbeiter/ped
 
 ![teaser](https://github.com/viscom-ulm/GINN/blob/master/teaser/teaser.jpg)
 
-This repository contains the code of our <a href="https://arxiv.org/abs/1811.04756">EGSR paper</a>, `Deep-learning the Latent Space of Light Transport`. A video of our method can be found in the following <a href="https://www.youtube.com/embed/deLJvw10AaU">link</a>.
+This repository contains the code of our <a href="https://arxiv.org/abs/1811.04756">EGSR paper</a>, **Deep-learning the Latent Space of Light Transport**. A video of our method can be found in the following <a href="https://www.youtube.com/embed/deLJvw10AaU">link</a>.
 
 ### Citation
 
