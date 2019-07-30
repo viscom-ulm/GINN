@@ -1,0 +1,1 @@
+python3 GIRealTime.py --in3DModel models/bunny --inTrainedModel ../trained_networks/gi.ckpt --gi --envMap env_maps/spruit_sunrise_1k.hdr --lightIntensity 0.5 --usePlane

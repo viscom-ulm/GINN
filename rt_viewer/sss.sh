@@ -1,0 +1,1 @@
+python3 GIRealTime.py --in3DModel models/dragon --inTrainedModel ../trained_networks/sss.ckpt --gi --sss --envMap env_maps/spruit_sunrise_1k.hdr --lightIntensity 1.0  --objColor 0.7 0.7 0.7 --sssParams 10.0 10.0 10.0 1.5
