@@ -3,11 +3,7 @@ Created by <a href="https://www.uni-ulm.de/en/in/mi/institute/mi-mitarbeiter/ped
 
 ![teaser](https://github.com/viscom-ulm/GINN/blob/master/teaser/teaser.jpg)
 
-### Links
-
-<a href="https://www.uni-ulm.de/en/in/mi/mi-forschung/viscom/publications/2018/hermosilla2018mccnn0/">Website</a>
-
-<a href="https://www.youtube.com/watch?v=deLJvw10AaU">Video</a>
+This repository contains the code of our <a href="https://arxiv.org/abs/1811.04756">EGSR paper</a>, `Deep-learning the Latent Space of Light Transport`.
 
 <a href="https://arxiv.org/abs/1811.04756">Paper</a>
 
