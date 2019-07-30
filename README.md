@@ -23,10 +23,10 @@ If you find this code useful please consider citing us:
 
 ### Pre-requisites
 
-numpy
-pygame
-CUDA 9.0
-tensorflow 1.12
+    numpy
+    pygame
+    CUDA 9.0
+    tensorflow 1.12
 
 ### Installation
 
